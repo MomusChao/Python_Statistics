@@ -1,2 +1,5 @@
-# descriptive-statistics-by-python
-descriptive statistics by python
+# Descriptive Statistics by python 
+The basic functions are followed with python version 3.5.5
+
+
+
